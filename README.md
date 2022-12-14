@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Hyuntae Yoo, you can call me by Hunter
 - 👀 I’m interested in Cloud.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 - 💞️ I have achieved AWS Cloud Practitioner
 - 📫 How to reach me ... vmfl2098@gmail.com
 
